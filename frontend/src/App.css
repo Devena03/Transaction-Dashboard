@@ -1,0 +1,72 @@
+ 
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff2cc; 
+    margin: 0;
+    padding: 0;
+    text-align: left;  
+  }
+  
+  /* Dashboard Container */
+  div {
+    padding: 20px;
+    margin-left: 20px;  
+  }
+  
+  /* Title Styling */
+  h1 {
+    color: black;
+    background-color: #FBA518;
+    padding: 15px;
+    border-radius: 8px;
+    display: inline-block;  
+    margin-bottom: 20px; 
+  }
+  
+   
+  .label-select-container {
+    display: flex;  
+    align-items: center;  
+    margin-bottom: 20px; 
+  }
+  
+  label {
+    margin-right: 10px; 
+    font-size: 16px;
+  }
+  
+  /* Select Dropdown */
+  select {
+    padding: 8px;
+    margin: 0;
+    font-size: 16px;
+    border: 2px solid #FBA518;
+    border-radius: 5px;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+    display: inline-block;  
+  }
+  
+  /* Tables */
+  table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #fff;
+  }
+  
+  th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  th {
+    background-color: #FBA518;
+    color: white;
+  }
+  
+  .head{
+    display: block;
+  }
