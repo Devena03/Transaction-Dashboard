@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Transaction-Dashboard/static/css/main.d1d579ee.css",
+    "main.js": "/Transaction-Dashboard/static/js/main.04c2a86b.js",
+    "static/js/453.d855a71b.chunk.js": "/Transaction-Dashboard/static/js/453.d855a71b.chunk.js",
+    "index.html": "/Transaction-Dashboard/index.html",
+    "main.d1d579ee.css.map": "/Transaction-Dashboard/static/css/main.d1d579ee.css.map",
+    "main.04c2a86b.js.map": "/Transaction-Dashboard/static/js/main.04c2a86b.js.map",
+    "453.d855a71b.chunk.js.map": "/Transaction-Dashboard/static/js/453.d855a71b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1d579ee.css",
+    "static/js/main.04c2a86b.js"
+  ]
+}

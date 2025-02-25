@@ -1,0 +1,37 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Database files (if you're using a local database)
+*.sqlite
+*.db
+
+# Build output (if you are using any build tools like Babel or TypeScript)
+dist/
+
+# Temporary files
+*.tmp
+
+# IDE or editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore any test or coverage folders from testing tools
+coverage/
+
+# Optional: Ignore package-lock.json or yarn.lock
+# package-lock.json
+# yarn.lock
